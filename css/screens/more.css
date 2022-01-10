@@ -1,0 +1,17 @@
+.more-screen .icon-row{
+    margin-top: 35px;
+}
+
+.user-component__column:last-child{
+    color: black;
+}
+
+.more-suggestions{
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top:40px;
+}
+
+.more-suggestions__title{
+    margin-bottom: 30px;
+}

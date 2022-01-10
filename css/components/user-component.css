@@ -21,10 +21,21 @@
   font-size: 22px;
 }
 
-.user-component__subtitle {
+.user-component__subtitles {
+  display: flex;
+  
+  align-items: center;
+}
+
+.user-component__subtitles{
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+}
+
+.user-component__subtitles i {
+  color: tomato;
+  margin-left: 5px;
 }
 
 .user-component__avatar--xl {
